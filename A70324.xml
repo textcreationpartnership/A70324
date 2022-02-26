@@ -1,0 +1,606 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all our friends and brethren at the severall monthly an[d] particular meetings in and throughout the County of York</title>
+            <author>Hammond, Thomas, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70324</idno>
+            <idno type="STC">Wing H625A</idno>
+            <idno type="STC">ESTC R23759</idno>
+            <idno type="EEBO-CITATION">07892685</idno>
+            <idno type="OCLC">ocm 07892685</idno>
+            <idno type="VID">40311</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70324)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40311)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1216:2 or 1616:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all our friends and brethren at the severall monthly an[d] particular meetings in and throughout the County of York</title>
+                  <author>Hammond, Thomas, 17th cent.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Given forth at our quarterly meetings held at York, the twentieth day of the first month, 1690, signed by the order, and on behalf of the meeting by Thomas Hammond"--P. 8.</note>
+                  <note>Attributed to Hammond by Wing and NUC pre-1956 imprints.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Item at 1216:2 identified as Wing T1327 (number cancelled in CD-ROM).</note>
+                  <note>Imperfect: pages cropped with some loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+               <term>Society of Friends --  England --  York (North Yorkshire)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:40311:1"/>
+            <head>To all our Friends and Brethren, at the ſeverall Monthly and particular Meetings; in and throughout the County of <hi>York</hi>
+            </head>
+            <opener>
+               <salute>GREETING,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE your Friends and Brethren, who are Aſſembled togeth<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the fear of God, to conſider of the affaires of the truth in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lation to our Chriſtian Society in the County afforeſaid, hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> under our tender and Chriſtian Conſideration the great Lo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Mercy and Favour of our God, in making known unto (with many more) the way of Life and Salvation, in and the Bleſſed Appearance of our Lord and Saviour Jeſus Chriſt, who by the di<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>veries of his Light, Grace and Holy Spirit, hath not only given us to ſee vanitys and wickedneſs of this preſent World, but alſo through Faith in him, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by the Glorious power and vertue of his ſpirit and goodneſs; he hath in a g<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> meaſure gathered a Remnant out of thoſe vanities, defilements and pollutio<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> wherein the World lyes, to walk with him in that Divine light and Heav<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly way which has alwayes been the <hi>Path of the Just,</hi> and wherein the Faith to God do find great peace, comfort and ſatisfaction in him, having been <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cretly touch't and inwardly wrought upon by his power and ſpirit, not onl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the mortifying of Sin and evill, but alſo to the Quickning and raiſing up of ſoules of many unto newneſs of Life, and ſo are thereby brought into a capa<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of worſhiping and ſerving God; <hi>not in the oldneſs of the Letter, but in the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>neſs of that Spirit and Life,</hi> wherein acceptance with the Father is known, whereby we are brought into a ſpirituall fellowſhip and Communion with in the Son of his Love, and are made liveing members, of that Spirituall bo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> whereof Chriſt our Lord is the head, who is to have the Rule and prehemin<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the Church that ſo every member therein may be acted and govern'd, by power and ſpirit, to the praiſe and glory of God and mutuall comfort o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> another.</p>
+            <p>Yet in as much as we have all one common Enemy, to watch againſt wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his temptations does endeavour to enſnare the weak and (if poſſible) by his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tillty and allurements to overcome many (whom the Lord by his grace and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> has been at work withall) and draw them back again, into thoſe vanities defilements which they have formerly been ſubject to, and which the Lord his ſpirit doth teſtifie againſt; therefore it is very neceſſary for every one <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:40311:2"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath known and experienced the goodneſs of the Lord in order to call and ga<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er them out of the ways of the World, and his heavenly hand to be ſtretched <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for their help and deliverance, that they be very carefull and watchfull in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir ways, that the enemy prevaile not again upon any of them to darken <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir mindes, and bring them back into folly and vanity, and make them ſub<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ct to that power and ſpirit of darkneſs, whereby their minds may become alienated from God; and their underſtandings vailed, ſo that its poſſible, they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay return again, into the practiſe of thoſe things which they have formerly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een addicted to, and which once they have been ſenſible the Lord by his Spirit <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath teſtified againſt, and reproved them for, as alſo its poſſible that ſuch may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> too prone, to admit of, or otherwiſe Indulge, ſuch things not only in them<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ves, but alſo amongſt their Children and Families, which in the time of their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt Convincement, they durſt not allow of, nor are they to be allowed of in our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hriſtian ſociety.</p>
+            <p>Therefore, we being thus ſenſible of the great love and kindneſs of our God, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wards his people on the one hand, and of <hi>the wiles of the Enemy,</hi> of the other <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd, and being Jealous that but too many (eſpecially in a time of outward eaſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Liberty) who have proffeſt the truth of our God, and have outwardly walk<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> in ſociety with us, both have been and ſtill may be, not ſo Cautious, diligent <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d circumſpect as they ought to be, upon diverſe accounts: And alſo having <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>der our Conſideration the many Living, ſound, wholeſom and Chriſtian teſtimonies, Cautions, Admonitions and directions which have formerly been <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>m time to time, and upon ſeverall occaſions given forth by our ancient Friends <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Brethren, who have Labour'd amongſt Us, <hi>in the word and Doctrine;</hi> As <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Counſell and advice of our Friends and Brethren Recommended unto <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at ſundry times, and in divers Letters and Epiſtles from the Yearly Meeting at <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>don,</hi> deſiring Friends care in the matters and things hereafter mentioned; As <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>evivall of the former teſtimonies, cautious advice and directions as aforeſaid, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d in order to ſtir up Friends in their ſeverall and reſpective monthly and par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>lar meetings, unto a holy care and diligence in theſe reſpects: We have <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd it to be our place and duty at this time in the love of God, and under the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y exerciſe, of his divine Grace and Goodneſs, wherein the Lord is pleaſed to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cerne us, with many more of his Children and People, to recommend the <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>owing particulars unto all our Friends and Brethren, at their ſeverall Month<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and particular meetings in the County aforeſaid, and by way of caution and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>otherly advice; in the ſame Love, we do tenderly lay theſe things before you, Queſtioning your Concurrance therewith, in this our holy and Chriſtian <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ncern for the Glory of God and comfort of his People.</p>
+            <p>
+               <hi>First,</hi> It is deſired that all ſuch as proffeſs the truth of Our God, and them<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es to be members of that body, whereof Chriſt our Lord is head; Be very
+<pb n="3" facs="tcp:40311:2"/>Carefull, and diligent in their ſeverall places, at ſeaſonable and convenient time to meet and Aſſemble together in the Name and fear of God, to wait upon an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worſhip him in Spirit and truth, according to Divine Inſtitution, and that non<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grow careleſs or negligent therein, ſo as to forbear to meet together as aforeſaid unleſs they have ſome urgent occaſion to hinder them; and that Friends in thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> comeing together have regard to meet in due time, and as near all together a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> well can be, and when ſo met; that every one Waite, to be gathered in mind an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Spirit near unto the Lord, that ſo, they may be exerciſed in that which Hevenly and pure, to the praiſe and Glory of God and mutuall comfort on<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of another, and in their ſeverall exerciſes, that they be very carefull to keep o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of all form'd and Affected notes, and ſounds, that do not purely ſpring and a<g ref="char:EOLunhyphen"/>riſe from that life and birth which has acceptance with the Father, and where any ſuch perſons as profeſs the truth are found, to be either negligent in meetin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> together, or in comeing in due time, or otherwiſe do give any juſt occaſion <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any in the matters aforeſaid, that ſuch be carefully ſpoken to, and dealt wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by way of Caution, Advice and Admonition, and other ſuch Chriſtian, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> regular proceedings as in the wiſdom of God may be ſeen convenient.</p>
+            <p>
+               <hi>Secondly,</hi> That all ſuch Friends as have any publick Teſtimony, or Servi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the Meetings or Aſſemblies of Friends; Be very carefull and watchfull th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their Miniſtry and ſervice ſtand in that Divine wiſdom, Spirit and Power, which truly reaches, and Informes the minds and underſtandings of people in heave<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly and Spirituall things, as alſo in that which edifies, builds up, and confirm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the heritage of the Lord in that which is Pure and Holy, that ſo ſuch as ſpe<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <hi>may ſpeak as the oracles of God:</hi> And thoſe that miniſter may do it as of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>bility that God giveth, that God in all things may be glorified through Jesus Chriſt, and as it is both a High and holy calling, ſo to Miniſter from God to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> people, it is abſolutely neceſſary, and we do adviſe, that all ſuch as be exerci<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> or concerned therein, be very cautious in their Words, and Teſtimonies, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that they ſpeak the things which becomes ſound Doctrine; in gravitie and ſin<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rity, recomending their Teſtimonies to every mans Conſcience in the ſight <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, as alſo, that they be watchfull and carefull in their wayes and practi<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> that their Lives and Converſations may anſwere their Teſtimonies; <hi>And ſuch as becomes the Goſpell, and in all things ſhewing themſelves patterns of g<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> works, in Doctrine, Incorruptneſs, Gravity, Sincerity, Sound ſpeech, that cannot <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> condemned:</hi> That thoſe who are of the contrary part may be aſhamed, hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no evill thing juſtly to ſay of them, and that none be found to concerne th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſelves in publick Teſtimonies amongſt Friends, acting in their own will or w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dom, and not in a Holy Subjection to the power and wiſdom of God, nor p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ceeding in a forward unqualified manner, ſpeaking words without true kn<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ledge, or not becoming ſound Doctrine, nor medling with things they un<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtand
+<pb n="4" facs="tcp:40311:3"/>not, to the griefe and trouble of Friends; but that all ſuch as are, or may <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e concern'd <hi>in the Work and ſervice of the Goſpell,</hi> may in all things endeavour <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhew themſelves approved unto God and his People, in that which is pure and Holy, to the praiſe and Glory of him that has called them unto that excellent work, and alſo to the help, comfort, and edification of his People.</p>
+            <p>
+               <hi>Thirdly.</hi> That all ſuch as profeſſe the truth be carefull to keep to the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ain and ſingle Language unto all people, And that parents do not by any <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eans, Indulge their Children in ſpeaking to either of them in the plurall <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mber, not in any other matter contrary to truths Teſtimony; nor allow <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em the Liberty of thoſe ſports and plays which viciate their mindes, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rrupt their manners, but traine them up in the fear of God, Reſtraining <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em from evill folly and vanitie, and as much as in them Lyes cauſe them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hilſt in their minoritys to read the holy Scriptures of truth, And ſuch books, are profitable: And to frequent the Aſſemblies of God's People; and bring <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em up in the Nurture and Admonition of the Lord; <hi>That ſo they may grow as a Generation to ſerve the Lord in their day:</hi> And that none go into, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r be found, in the Vain and Gaudy Habits, Dreſſes, Attires, nor Fooliſh, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atick Modes, and Faſhions of the World; either in Apparell, Furniture, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther ſuperfluities whatſoever, nor Joyne with any in obſerving and keeping the Feaſts, Feaſt-dayes, banquets or vain cuſtoms of the World, but that all <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ep both in Habit and Practiſe every way, unto that Decency, plainneſs, ver<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and moderation which becoms the Truth, and as People profeſſing the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſpell of our bleſſed Lord: And where any fault, defect, or miſdimenour <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> appear, and is manifeſt amongſt ſuch as profeſs the truth, in theſe reſpects, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>any other: It is deſired that ſuch Perſons be duly Cautioned, Warned, Ad<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>niſhed, and dealt with by honeſt Friends, in ſuch manner as in the wiſdom <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, and according to Truth's order may be ſeen convenient.</p>
+            <p>
+               <hi>Fourthly,</hi> That all ſuch as proffeſſe the truth, be carefull in their dealings <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d concerns amongſt men; that they be not forward or Laviſh in praiſing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> commending their wares and merchandizes beyond the reall and true de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>; That they be cautious in their words, and expreſſions upon every ac<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nt; And that they be punctuall in performing their promiſſes, And <hi>that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> yea, be yea, and nay nay in all their Converſations:</hi> That they endea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> both in their diſcourſes and converſations to dwell in<g ref="char:EOLunhyphen"/>offenſively under the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vernement; and <hi>as much as in them lies labour to live peaceably with all men.</hi> And if any differrances happen to fall out one amongſt another that care be <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>en to lay the matter before freinds in due time, in order to be heard and <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>rmind by them, And that none do forwardly engage themſelves in ſuites, or <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>troverſies at Law with any others, But upon Juſt and Righteous grounds, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with good advice and deliberation, And none Lanch forth or go into
+<pb n="5" facs="tcp:40311:3"/>greater matters, bargaines dealings and concernes in the world then they are able to mannage well; and honourably go through with good credi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and reputation; Nor contract ſuch debts, As they are not capable to make good and punctuall payment of in due time, But that in all things friends may ſo endeavour to keep, in ſuch a holy; Juſt, Righteous, And ſelf denying way and method, in all their dealings and concernes whatſoever, as may tend to truths praiſe and their comfort, And wherein any thing of the contrary i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> found, in any of theſe caſes or any other where truths reputation is or may be concerned, It is deſired that freinds have a watchfull and carefull eye, in due time towards ſuch, to adviſe caution admoniſh reprove and deal with then in a regular and Chriſtian way, That ſo (if poſſible) a ſtop may be put to all ſuch proceedings as may in the leaſt be hurtfull or of an ill report, And if any have, already gone too far in contracting further or greater debts, the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they are capable of diſcharging: That ſuch be adviſed by no means, to abſen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> themſelves, nor flee from Juſtice, But yeild up what eſtate they have to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> creditors towards payment of their juſt debts, as alſo offer up their bodies to the Creditors, unleſſe they will be pleaſed to give them leave to be at liberty to labour for more, towards their releif, and further Satisfaction or payment of their debts, And if any perſon that proffeſſes the truth do refuſe or neglect to take the advice and counſell of freinds herein (or in any other matter <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this or the like nature or tendency) that ſuch may be dealt with in due time <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ven as the nature of the fact may require, in order to clear the truth of ſuc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aſperſions, as may ariſe through ſuch perſons acting contrary to Juſtice, reaſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and equity, and the adviſe of freinds in thoſe caſes.</p>
+            <p>
+               <hi>Fiftly.</hi> That all ſuch as profeſſe the truth be very cautious in their proceed<g ref="char:EOLunhyphen"/>ings relating to Marriage that their eye be not ſo much to the world and worldl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ends, as unto the Lord, and the concurrence of his grace and goodneſs, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all thoſe concernes, that they be not haſty or forward in making ſuch pro<g ref="char:EOLunhyphen"/>poſalls to any but with good adviſe, caution, and deliberation; and when (<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> after) ſuch propoſalls be made and are not Imbraced that there be a waiting <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> patience for ſome reaſonabletime to ſee what may be effected or done therein before there be attempts made, of ſuch propoſalls to another, That ſo not may be found in ſuch Levity and unconſtancy, as is manifeſt in the world, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> runing haſtily from one perſon to another: And that before any ſuch propo<g ref="char:EOLunhyphen"/>ſalls be made, That the parents, or ſuch as have thoſe perſons in tuitio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or Guardianſhip (if any ſuch be) be firſt ſpoken to, And their conſent ob<g ref="char:EOLunhyphen"/>tain'd therein (if poſſible) and alſo that widdowers and widdows be not to forward in makeing or accepting propoſalls, of Marriage again after the d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ceaſe of former wives or husbands, but that there be ſome Conſiderable fo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>bearance in thoſe caſes: And that care be taken before any ſuch widdow<g ref="char:EOLunhyphen"/>er
+<pb n="6" facs="tcp:40311:4"/>widdows be permited to marry again, or conſent be given thereto, That <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch proviſion and ſettlements in temporall things be made and done for the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ormer Iſſue, Child or Children of ſuch deceaſed husband or wife, as ſhall be, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een and appear to be fair, juſt, honeſt, and reaſonable: For the preſerving of love peace and unity in famillies, and amongſt relations; as alſo for preſerving <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Rights of Infants, and thoſe in minority, from being waſted and ſpent <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ontrary to reaſon and equity: And that due examination be made, touching <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he clearneſſe of all parties concerned before conſent be given, according to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ormer advice, and when any marriages are accompliſhed or ſoleminized <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mongſt friends, that they be performed in the fear of God, and in a grave, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ober, devout, and ſolemn manner; before ſeverall witneſles, And Atteſted Certified, and Recorded, according to former advice. And that friends be care<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull at ſuch times to keep out of the forms, modes, and cuſtomes of the world <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> feaſting and other ſuperfluities, as alſo in Rideing or going in great com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anies together in a vain ſplendor, or wanton manner, and that care be taken <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mongſt ſuch as proffeſs the truth, (as much as poſſible may be;) that none that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake proffeſſion of truth, do concerne themſelves, in matters of marriage any <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay, or in making propoſalls relateing thereunto, with ſuch as are not friends, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or reputed to be of our ſociety, nor walk in fellowſhip with us in the grace <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſpirit of Chriſt, and that none marry or go about to endeavour the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me without the conſent, or contray to the order and practice of friends.</p>
+            <p>And where any are found, to err or go aſide in theſe reſpects, contrary <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the advice and counſell of friends, and to that Righteouſneſſe ſelf-denyall <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rity plainneſs, and decency which becomes true Chriſtanity and a people <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>offeſſing Godlineſſe and vertue, or that do concern themſelves, in matters <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> marriage with ſuch as are not friends nor own'd to be of our ſociety or do <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arry without conſent and contrary to the order and practice of friends, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all theſe caſes or any of them, let ſuch be ſpoken to, adviſed admoniſh'd and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>alt with by friends at their particular monthly meetings, even as the nature <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the fact may require, and as in the wiſdom of God and according to <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ths order may be ſeen convenient.</p>
+            <p>
+               <hi>Sixthly,</hi> That all ſuch as profeſs the truth be carefull to keep up their teſtimo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es againſt that great oppreſſion of Tythes, and other Impoſitions which the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rd by his Spirit doth teſtifie againſt; and are contrary to the Glorious liberty, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d freedom of the goſpel diſpenſation; and that true records be kept of the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fering of friends in thoſe caſes (and all other) upon truths account, in every <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onthly meeting and an account thereof fairely tranſcribed be brought up <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce every year (at leaſt) to the quarterly meetings to be recorded there, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t care be taken in every particuler meeting to nominate one or two faith<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> friends to attend each monthly meeting, as alſo that each monthly meeting
+<pb n="7" facs="tcp:40311:4"/>do take care to nominate and appoint one or two ſuch faithfull honeſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> weighty and diſreet Friends to attend the quarterly meetings as are in good unity with friends whoſe ſervice may be to God and his people, and are capable to repreſent that monthly meeting they do appear for, in giveing Judgement of things relateing to truth and in doing and mannageing buſſineſs relateing to our Chriſtian Society at the quarterly meeting.</p>
+            <p>
+               <hi>And,</hi> Laſtly, as we deſire that theſe perticulars may be taken notice of an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> obſerved amongſt friends in their ſeverall places and ſtations. <hi>So</hi> to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Intent that ſome care may be taken And Method uſed therein every wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as the nature of the thing may require. <hi>It</hi> is agreed that a record hereof b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> kept in the Quarterly meeting books, And Coppys of ſame be ſent to ever<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> monthly meeting in this County, and we do adviſe and deſire that it ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be recorded there, and enquiry made at the monthly meetings as occaſion <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> touching friends care about the things herein contain'd, And that Coppy hereof be ſent to be read in every perticular meeting, And that every monthly meeting take care to nominate and appoint two or more honeſt ſober weighty and diſcreet friends in every perticuler meeting to take care in the matter above-mentioned (ſome for one thing and ſome for another) as friends fin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a freedom and willingneſſe in their minds to undertake the ſame, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> friends in the wiſdom of God at the ſeverall monthly meetings ſhall ſee conven<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ent, That ſo in the ſpirit of love and meekneſſe friends may adviſe, Cautio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Admoniſh, reprove, and deal with ſuch perſons as proffeſs the truth, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not anſwer the principle, and teſtimony thereof in their lives and conve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſations, nor walk according the advice, and Counſell of friends in the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> reſpects, in a ſober, holy, plain, and Godly manner as becomes a people reform<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in principle and practice; from the errors vanitys and ſuperfluities, of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſent world: And that friends at their ſeverall monthly meetings, do ſpe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or write to ſuch friends, as ſhall be ſo appointed, deſiring their care in t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> premiſſes, Recording their names in the monthly meeting books, who th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> are in every perticular meeting that are appointed and willing to take ca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in ſuch things, and that if upon their advice, caution, reproof or admoniti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſuch perſon or perſons ſhall happen to refuſe, or neglect to take notice ther<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo as to demean themſelves, as becomes the truth, and the profeſſors ther<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> That in thoſe caſes the perſons ſo appointed do take care as afforeſaid <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lay the matter before friends at the monthly meeting they belong to, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſo the perſons may be dealt with according to truths order, as the nature<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fact may require, And as in the wiſdom of God may be ſeen convenie<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> That ſo in all things relateing to our holy fellowſhip and Chriſtian ſoci<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> friends in their ſeverall places, may keep in that Righteous pure holy decent a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="8" facs="tcp:40311:5"/>ſanctified ſtate and order, in principle doctrine devotion and converſation eve<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y way as becomes <hi>the Goſpell of our Lord Jeſus Chriſt,</hi> And a people pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſing the ſame, That God over all who is rich in his mercys favours and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſſings to us every way, may have the glory and praiſe who is worthy for ever and ever. <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Given forth at Our Quarterly Meeting held at</hi> York, <date>
+                     <hi>the Twentieth day of the</hi> Firſt Month, 1690.</date>
+               </dateline>
+               <signed>Signed by the Order, and on the behalf of the Meeting by <hi>Thomas, Hammond.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
